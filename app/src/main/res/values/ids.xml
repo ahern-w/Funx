@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="preguntasActivityTv" type="id" />
+    <item name="recyclerCategorias" type="id" />
+</resources>
